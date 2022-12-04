@@ -12,6 +12,8 @@ Multiple decorators on one function: https://blog.teclado.com/python-how-to-use-
 
 Starter code: https://github.com/tecladocode/advanced-rest-api-lecture-codes/tree/main/section01/05_our_project_and_endpoints/start
 
+Pipenv: https://stackoverflow.com/questions/46330327/how-are-pipfile-and-pipfile-lock-used
+
 ## Commands:
 
 Black ---> 
