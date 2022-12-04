@@ -11,6 +11,8 @@ flask-restful = "*"
 marshmallow = "*"
 flask-marshmallow = "*"
 marshmallow-sqlalchemy = "*"
+requests = "*"
+python-dotenv = "*"
 
 [dev-packages]
 
