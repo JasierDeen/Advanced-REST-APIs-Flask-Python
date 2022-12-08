@@ -18,6 +18,8 @@ Pipenv: https://stackoverflow.com/questions/46330327/how-are-pipfile-and-pipfile
 
 Marshmallow Extending Schemas: https://marshmallow.readthedocs.io/en/stable/extending.html
 
+Flask-Babel: https://pythonhosted.org/Flask-BabelEx/
+
 ## Commands:
 
 Black ---> 
