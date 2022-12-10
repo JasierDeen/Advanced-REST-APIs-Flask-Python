@@ -4,6 +4,18 @@
 
 Jose Salvatierra Founder of Teclado and Software Engineer
 
+## Contents:
+
+1. Serialization with Marshmallow
+2. E-mail confirmations
+3. Advanced E-mail confirmations
+4. Localisation L10n and Internationalisation i18n
+5. Postman documentation and tests
+6. Image Uploads
+7. Database migrations
+8. Third party login with OAuth
+9. payments with Stripe
+
 ## e-book:
 
 e-book link: https://arac.tecladocode.com/
